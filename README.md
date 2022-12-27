@@ -43,7 +43,7 @@ The data is based on a historical survey on the state of global happiness, colle
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPL](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Author
 

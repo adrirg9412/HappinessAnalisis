@@ -1,0 +1,6 @@
+Jinja2>=3.0.0
+pandas
+seaborn
+matplotlib
+plotly
+numpy>=1.16.5, <1.23.0
